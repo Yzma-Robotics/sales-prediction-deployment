@@ -24,12 +24,12 @@ Regression is basically classification where we forecast a number instead of cat
 
 Everyone who works with finance and analysis loves regression. It's even built-in to Excel. And it's super smooth inside — the machine simply tries to draw a line that indicates average correlation. Though, unlike a person with a pen and a whiteboard, machine does so with mathematical accuracy, computing the average interval to every dot.
 
-!()[images/classical-ml.png]
+![](images/classical-ml.png)
 
 ### Regression
 Drawing a line through tese dots. Yep, that's the machine learning
 
-!()[images/lr.png]
+![](images/lr.png)
 
 Regression today is used for:
 * Any number-time correlation
@@ -54,5 +54,5 @@ This project has four parts:
 
 >HTML/CSS — This contains the HTML template and CSS styling to allow user to enter sales detail and displays the predicted sales in the third month.
 
-!()[images/pipeline.png]
+![](images/pipeline.png)
 
